@@ -3,7 +3,7 @@ youtube-dl windows batch script with icon - use youtube-dl from your taskbar
 
 put yd.bat and yd.ico in the same folder as youtube-dl.exe
 
-create a shortcut to yd.ba (right click - create shortcut) than, in Target, add
+create a shortcut to yd.bat (right click - create shortcut) than, in Target, add
 
 cmd.exe /c 
 
